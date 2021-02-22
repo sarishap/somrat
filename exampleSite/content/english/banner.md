@@ -4,6 +4,8 @@ first_name: Sarisha
 last_name: Prajapati
 bg_image: "/uploads/img_0541-2.JPG"
 occupations:
+- Python
+- Web Developer
 - Flutter Developer
 slider_images:
 - images/slider/slider-1.jpg
