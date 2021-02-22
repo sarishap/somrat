@@ -1,12 +1,10 @@
 ---
 title: I'm Sarisha Prajapati
-first_name: MacGyver
-last_name: SOMRAT
-bg_image: images/backgrounds/full-nav-bg.jpg
+first_name: Sarisha
+last_name: Prajapati
+bg_image: "/uploads/img_0541-2.JPG"
 occupations:
-- Web Developer
-- Graphic Designer
-- Database Manager
+- Flutter Developer
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
