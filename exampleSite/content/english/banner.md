@@ -10,8 +10,8 @@ slider_images:
 - images/slider/slider-2.jpg
 - images/slider/slider-3.jpg
 button:
-  enable: true
-  label: Contact
+  enable: false
+  label: Contact Me
   link: "#contact"
 custom_class: ''
 custom_attributes: ''
